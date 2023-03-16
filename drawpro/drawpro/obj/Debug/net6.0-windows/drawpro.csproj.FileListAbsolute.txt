@@ -1,0 +1,17 @@
+C:\Users\sasha\source\repos\drawpro\drawpro\bin\Debug\net6.0-windows\drawpro.exe
+C:\Users\sasha\source\repos\drawpro\drawpro\bin\Debug\net6.0-windows\drawpro.deps.json
+C:\Users\sasha\source\repos\drawpro\drawpro\bin\Debug\net6.0-windows\drawpro.runtimeconfig.json
+C:\Users\sasha\source\repos\drawpro\drawpro\bin\Debug\net6.0-windows\drawpro.dll
+C:\Users\sasha\source\repos\drawpro\drawpro\bin\Debug\net6.0-windows\drawpro.pdb
+C:\Users\sasha\source\repos\drawpro\drawpro\obj\Debug\net6.0-windows\drawpro.csproj.AssemblyReference.cache
+C:\Users\sasha\source\repos\drawpro\drawpro\obj\Debug\net6.0-windows\drawpro.Form1.resources
+C:\Users\sasha\source\repos\drawpro\drawpro\obj\Debug\net6.0-windows\drawpro.csproj.GenerateResource.cache
+C:\Users\sasha\source\repos\drawpro\drawpro\obj\Debug\net6.0-windows\drawpro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasha\source\repos\drawpro\drawpro\obj\Debug\net6.0-windows\drawpro.AssemblyInfoInputs.cache
+C:\Users\sasha\source\repos\drawpro\drawpro\obj\Debug\net6.0-windows\drawpro.AssemblyInfo.cs
+C:\Users\sasha\source\repos\drawpro\drawpro\obj\Debug\net6.0-windows\drawpro.csproj.CoreCompileInputs.cache
+C:\Users\sasha\source\repos\drawpro\drawpro\obj\Debug\net6.0-windows\drawpro.dll
+C:\Users\sasha\source\repos\drawpro\drawpro\obj\Debug\net6.0-windows\refint\drawpro.dll
+C:\Users\sasha\source\repos\drawpro\drawpro\obj\Debug\net6.0-windows\drawpro.pdb
+C:\Users\sasha\source\repos\drawpro\drawpro\obj\Debug\net6.0-windows\drawpro.genruntimeconfig.cache
+C:\Users\sasha\source\repos\drawpro\drawpro\obj\Debug\net6.0-windows\ref\drawpro.dll
